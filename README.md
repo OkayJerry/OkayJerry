@@ -25,4 +25,4 @@ Hello! I'm **Jerry Hoskins**. I'm passionate about technology, music, machine le
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OkayJerry&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OkayJerry&show_icons=true&theme=ambient_gradient)
